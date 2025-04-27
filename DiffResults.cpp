@@ -7,7 +7,8 @@
 
 #include <iostream>
 #include <assert.h>
-#include "DiffResults.h"
+
+#include "DiffResults.hpp"
 
 namespace cr = std::chrono;
 

@@ -10,7 +10,8 @@
 #include <string>
 #include <vector>
 #include <unordered_set>
-#include "DiffResults.h"
+
+#include "DiffResults.hpp"
 
 //------------------------------------------------------------------------------------------------------------
 

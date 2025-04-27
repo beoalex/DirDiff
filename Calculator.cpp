@@ -7,7 +7,8 @@
 
 #include <filesystem>
 #include <assert.h>
-#include "Calculator.h"
+
+#include "Calculator.hpp"
 
 namespace fs = std::filesystem;
 
